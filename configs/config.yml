@@ -1,2 +1,0 @@
-port: 8080
-db_url: postgres://localhost:5432/app
